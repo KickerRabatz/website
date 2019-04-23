@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Konventa 27.-28.4.2019"
+date:   2019-04-22 10:00:00 +0200
+categories: Ausstellung
+---
+
+Besucht uns auf dem Markt für schöne Dinge bei der diesjährigen [Konventa][Konventa] in Löbau. Im Rahmen der [Werkschau][Werkschau] könnt ihr mal antesten wie sich ein Rabatz-Kicker spielt.<br><br>
+<a href="http://www.kreatives-sachsen.de/werkschau/">
+<img src='{{ site.baseurl }}/images/news/201904_konventa.jpg'>
+</a>
+
+[Werkschau]: http://www.kreatives-sachsen.de/werkschau/
+[Konventa]: https://www.messe-konventa.de/
