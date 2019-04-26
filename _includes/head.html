@@ -9,11 +9,12 @@
   {%- if jekyll.environment == 'production' and site.google_analytics -%}
     {%- include google-analytics.html -%}
   {%- endif -%}
+
   <link href="https://fonts.googleapis.com/css?family=Raleway|Tangerine:400,700" rel="stylesheet">
-  <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
   
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-139155146-1"></script>
+
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
@@ -22,21 +23,4 @@
     gtag('config', 'UA-139155146-1');
   </script>
   
-  <script type="text/javascript">// <![CDATA[
-    // Set to the same value as the web property used on the site
-    var gaProperty = 'UA-139155146-1';
-    
-    // Disable tracking if the opt-out cookie exists.
-    var disableStr = 'ga-disable-' + gaProperty;
-    if (document.cookie.indexOf(disableStr + '=true') > -1) {
-	window[disableStr] = true;
-    }
-    
-    // Opt-out function
-    function gaOptout() {
-	document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
-	window[disableStr] = true;
-    }
-    </script>
-    
 </head>
