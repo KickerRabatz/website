@@ -7,7 +7,7 @@ categories: Ausstellung
 
 Besucht uns auf dem Markt für schöne Dinge bei der diesjährigen [Konventa][Konventa] in Löbau. Im Rahmen der [Werkschau][Werkschau] könnt ihr mal antesten wie sich ein Rabatz-Kicker spielt.<br><br>
 <a href="http://www.kreatives-sachsen.de/werkschau/">
-<img src='{{ site.baseurl }}/images/news/201904_konventa.jpg'>
+<img src='{{ site.baseurl }}/images/aktuelles/201904_konventa.jpg'>
 </a>
 
 [Werkschau]: http://www.kreatives-sachsen.de/werkschau/

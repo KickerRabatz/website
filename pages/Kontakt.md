@@ -4,7 +4,9 @@ title: Kontakt
 permalink: /Kontakt/
 ---
 
-<img src="{{site.baseurl}}/images/Kontakt/closeup.jpg" width="100%">
+<img src="{{site.baseurl}}/images/Kontakt/laden.jpg" width="100%">
+
+Rabatz Kickermanufaktur
 
 André Mirtschink
 

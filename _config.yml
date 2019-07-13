@@ -18,7 +18,7 @@ email: info@kicker-rabatz.de
 description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.kicker-rabatz.de" # the base hostname & protocol for your site, e.g. http://example.com
-#twitter_username: jekyllrb
+instagram_username: kickerrabatz
 github_username:  KickerRabatz
 
 # Build settings
