@@ -1,0 +1,85 @@
+---
+layout: default
+title: Lichterbogenwettbewerb
+sitemap: false
+permalink: /lichterbogen.html
+---
+
+<div class="post">
+  {%- if page.title -%}
+    <h1 class="post-title" style="font-family:Tangerine;">{{ page.title }}</h1>
+  {%- endif -%}
+
+    <div>
+      <li>Ihr seid Schüler der 9. oder 10. Klasse an einer Bautzener Schule?</li>
+      <li>Seid kreativ und habt handwerkliches Geschick?</li>
+    </div>
+
+    <br>
+    <b>Dann legt los!</b><br>
+    <br>
+    
+    <div>
+      <li>Entwerft eine Silhouette für einen Lichterbogen</li>
+      <li>Sendet euren Entwurf an: <a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a><br>
+      Maximal 1 Entwurf pro Schüler</li>
+    </div>
+
+    <img src="{{site.baseurl}}/images/Lichterbogen/silhouette.png" width="50%" style="display: block; margin-left: auto; margin-right: auto;"><br>
+    
+    <b>Wir prämieren die besten 5 Entwürfe und stellen diese mit euch her!</b><br>
+    <br>
+
+    <img src="{{site.baseurl}}/images/Lichterbogen/prototyp.png" width="50%" style="display: block; margin-left: auto; margin-right: auto;"><br>
+
+    <b>Termine</b><br>
+    <br>
+    
+    <table>
+      <tr>
+        <td>31.8.</td>
+	<td>Wettbewerbsauftakt zum Altstadtfestival Bautzen</td>
+      </tr>
+      <tr>
+        <td>27.10.</td>
+        <td>Ende Einreichungsphase für Entwürfe</td>
+      </tr>
+      <tr>
+        <td>28.10.</td>
+	<td>Auswahl der Top 5</td>
+      </tr>
+      <tr>
+        <td>4.-8.11.</td>
+        <td>Top 5: ihr lernt wie man Lichterbögen produziert</td>
+      </tr>
+      <tr>
+        <td>14.11.</td>
+	<td>Präsentation der Top 5 und Verkaufsstart</td>
+      </tr>
+    </table>
+    <br>
+        
+    <b>Verkauf</b><br>
+    <br>
+    
+    <table>
+      <tr>
+        <td>14.11.</td>
+	<td>Netzwerktreffen offenener Werkstätten</td>
+      </tr>
+      <tr>
+        <td>
+        ab 18.11.</td>
+	<td>ausgewählte Händler Bautzens</td>
+      </tr>
+      <tr>
+        <td>7.12.</td>
+	<td>Markt der schönen Dinge im Nicolaiturm</td>
+      </tr>
+    </table>
+    <br>
+
+Unterstützt durch:<br><br>
+    <img src="{{site.baseurl}}/images/Lichterbogen/logos.png" width="100%" style="display: block; margin-left: auto; margin-right: auto;">
+    
+</div>
