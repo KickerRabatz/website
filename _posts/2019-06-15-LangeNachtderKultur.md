@@ -7,9 +7,11 @@ categories: Ausstellung
 
 Geschichten, Kurzfilme und Kicker gibt es zur [Langen Nacht der Kultur][Langen Nacht der Kultur] im Nicolaiturm in Bautzen. Zusammen mit dem [Steinhaus e.V.][Steinhaus e.V.] zeigen wir Filme vom [Neisse Filmfestival][Neisse Filmfestival] und die "Heimat"-Filme von [So geht Sächsisch][So geht Sächsisch]. Das [Hä?ppy Lab][Hä?ppy Lab] schmeißt die Bar und die Einnahmen kommen unserem MakerSpace zu gute.
 
+<p style="text-align:center;">
 <a href="https://bautzen.info/veranstaltungen-kultur/lange-nacht-der-kultur-2019/">
-<img src='{{ site.baseurl }}/images/aktuelles/201906_LangeNachtderKultur.jpg'>
+<img src='{{ site.baseurl }}/images/aktuelles/201906_LangeNachtderKultur.jpg' width="60%">
 </a>
+</p>
 
 [Langen Nacht der Kultur]: https://bautzen.info/veranstaltungen-kultur/lange-nacht-der-kultur-2019/
 [Steinhaus e.V.]: https://www.steinhaus-bautzen.de/start/

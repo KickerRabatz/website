@@ -9,7 +9,7 @@ Kommt kickern beim [Tag der Kunst][Tag der Kunst] in Pirna. Ihr findet uns am So
 
 <p style="text-align:center;">
 <a href="http://tag-der-kunst-pirna.de/">
-<img src='{{ site.baseurl }}/images/aktuelles/201907_tagderkunst_pirna.png'>
+<img src='{{ site.baseurl }}/images/aktuelles/201907_tagderkunst_pirna.png' width="60%">
 </a>
 </p>
 

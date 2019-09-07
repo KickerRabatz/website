@@ -10,8 +10,8 @@ Der Ball rollt zum [Altstadtfestival][Altstadtfestival]. Am Samstag findet ihr u
 
 <p style="text-align:center;">
 <a href="https://www.altstadtfestival-bautzen.de">
-<img src='{{ site.baseurl }}/images/aktuelles/201908_Altstadtfestival.jpg' width="60%">
+<img src='{{ site.baseurl }}/images/aktuelles/201908_Altstadtfestival.jpg'>
 </a>
 </p>
 
-[Altstadtfestival]: http://altstadtfestival-bautzen.de
+[Altstadtfestival]: www.altstadtfestival-bautzen.de
