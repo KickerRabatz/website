@@ -5,7 +5,7 @@ date:   2019-04-22 11:00:00 +0200
 categories: Ausstellung
 ---
 
-Erlebt unsere Kicker in Aktion bei [Bouncen in Bautzen][Bouncen in Bautzen]. Am ab 14.00 Uhr sind wir auf dem Platz der Völkerfreundschaft, am Samstag auf dem Kormarkt zusammen mit dem [Bautzen Rollt e.V][Bautzen Rollt e.V}. Die Jungs vom [FabMobil][FabMobil] kommen auch.
+Erlebt unsere Kicker in Aktion bei [Bouncen in Bautzen][Bouncen in Bautzen]. Am ab 14.00 Uhr sind wir auf dem Platz der Völkerfreundschaft, am Samstag auf dem Kormarkt zusammen mit dem [Bautzen Rollt e.V.][Bautzen Rollt]. Die Jungs vom [FabMobil][FabMobil] kommen auch.
 
 <p style="text-align:center;">
 <a href="https://www.steinhaus-bautzen.de/bounceninbautzen/ueber-das-festival/">
@@ -14,5 +14,5 @@ Erlebt unsere Kicker in Aktion bei [Bouncen in Bautzen][Bouncen in Bautzen]. Am 
 </p>
 
 [Bouncen in Bautzen]: https://www.steinhaus-bautzen.de/bounceninbautzen/ueber-das-festival/
-[Bautzen Rollt e.V]: https://bautzenrolltev.wordpress.com/
+[Bautzen Rollt]: https://bautzenrolltev.wordpress.com/
 [FabMobil]: https://www.fabmobil.org/
