@@ -5,7 +5,7 @@ date:   2019-09-07 14:00:00 +0200
 categories: Veranstaltung
 ---
 
-[Rudelbildung][Rudelbildung] ausschließlich erwünscht!
+[Rudelbildung][Rudelbildung] ausdrücklich erwünscht!
 
 
 <p style="text-align:center;">
