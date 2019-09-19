@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Lichterbogenwettbewerb - Mission "Ground State"
+title: Gestaltungssoftware
 sitemap: false
-permalink: /lichterbogen.html
+permalink: /lichterbogen_software.html
 ---
 
 <div class="post">
@@ -10,27 +10,36 @@ permalink: /lichterbogen.html
     <h1 class="post-title" style="font-family:Tangerine;">{{ page.title }}</h1>
   {%- endif -%}
 
-    Für alle Schüler der 9. oder 10. Klasse einer Bautzener Schule.<br>
     <br>
-    <b>Auftaktvortrag!</b><br><br>
+    <b>GIMP</b><br><br>
     <center>
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/gk-wulizRBM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-      </center>
-    <a href="{{site.baseurl}}/images/Lichterbogen/MissionGroundZero_entschaer(d)ft.pdf" class="image fit">Folien zum Vortrag</a>
+      <img src="https://www.gimp.org/images/frontpage/wilber-big.png" width="50%" style="display: block; margin-left: auto; margin-right: auto;"><br>
+    </center>
+    Download:     <a href="https://www.gimp.org/" class="image fit">gimp.org</a>
     <br><br>
-    <b>Ihr wollt mitmachen? Dann legt los!</b><br>
+    <b>INKSCAPE</b><br>
     <br>
-    
+    <center>
+      <img src="https://media.inkscape.org/static/images/inkscape-logo.svg" width="50%" style="display: block; margin-left: auto; margin-right: auto;"><br>
+    </center>
+    Download:     <a href="https://inkscape.org/" class="image fit">inkscape.org</a>
+    <b>A</b><br>
+    <br>
+    <center>
+      <img src="https://media.inkscape.org/static/images/inkscape-logo.svg" width="50%" style="display: block; margin-left: auto; margin-right: auto;"><br>
+    </center>
+    Download:     <a href="https://www.autodesk.de/products/fusion-360/students-teachers-educators?referrer=%2Fproducts%2Ffusion-360%2Fstudents-teachers-educators" class="image fit">Schüler Lizenz</a>
+    <br><br>
+
     <div>
       <li>Tretet an als Klasse, Gruppe oder als Schüler für sich</li>
       <li>Entwerft eine Silhouette für einen Lichterbogen</li>
       <li>Sendet euren Entwurf an: <a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a><br>
 	Maximal 1 Entwurf pro Schüler</li>
       <li>Optional: erstellt ein 3D Model von eurem Lichterbogen</li>
-      <li><a class="page-link" href="/lichterbogen_software.html">Hier gibt es eine Übersicht zur nützlichen Gestaltungssoftware</a></li>
     </div>
     <br>
-    <img src="{{site.baseurl}}/images/Lichterbogen/silhouette.png" width="50%" style="display: block; margin-left: auto; margin-right: auto;"><br>
+
     
     <b>Wir prämieren die besten 5 Entwürfe und stellen diese mit euch her!</b><br>
     <br>
